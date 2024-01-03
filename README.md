@@ -78,6 +78,8 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
 ## Test 및 Inference
 
-
-
+     텍스트 정제, 토큰화       : 이호열, 김소연
+     단어 빈도 분석            : 황석준
+     감정 분석                 : 이재영, 임예리
+     난독화                    : 정현기
 
