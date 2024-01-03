@@ -10,6 +10,7 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
 ## 학습방법 및 실험내용
 
+
 - 학습 키워드와 핵심역할 :
 
     - 텍스트 정제, 토큰화       : 이호열, 김소연
