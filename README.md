@@ -3,7 +3,7 @@
 - url 주소 :
 https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
-순위 : ?
+- 순위 : ?
 
 
 ## 학습방법 및 실험내용
