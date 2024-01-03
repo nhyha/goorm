@@ -13,7 +13,7 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
 
 
-- 학습 키워드와 핵심역할 :
+### 학습 키워드와 핵심역할 :
 
      텍스트 정제, 토큰화       : 이호열, 김소연
      단어 빈도 분석            : 황석준
