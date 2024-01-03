@@ -1,6 +1,7 @@
 # LLM AI 생성 text 분류모델 경진대회
 
 
+
 - url 주소 :
 https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
@@ -9,6 +10,8 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
 
 ## 학습방법 및 실험내용
+
+
 
 - 학습 키워드와 핵심역할 :
 
