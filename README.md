@@ -58,12 +58,13 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
 
 - 모델학습
-     (✔내용 추가 예정)
-      (하이퍼파라미터, 학습률, 배치크기, 에포크 수)
+     - (✔내용 추가 예정)
+     - (하이퍼파라미터, 학습률, 배치크기, 에포크 수)
 
 
 
 - 추론 및 대처, discussion
+  - accuracy 향상을 위한 노력
 
 ## 개발환경
 
