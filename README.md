@@ -44,7 +44,8 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
       
         - 텍스트 정제, 토큰화
           - (✔내용 추가 예정)
-          
+          https://www.notion.so/94c69beb36b94564971c032503e66dc1
+
         - 단어 빈도 분석
           - (✔내용 추가 예정)
           
