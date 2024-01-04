@@ -23,19 +23,22 @@ https://www.kaggle.com/competitions/llm-detect-ai-generated-text/overview
 
 - 개요 (분류모델선정 이유 및 진행방향 요약)
     - LR, XGB
-    - (✔내용 추가 예정)
+    - RF, CatBoost
 
 
 - 데이터 EDA
 
     - train_essay : (✔내용 추가 예정)
       - target의 불균형 유무
+      - 이상치 유무
       - Null 값의 유무
       - 학습데이터의 크기 (외부데이터 확보 필요유무)
-      - 스케일링, 인코딩 방법 선정 (트래킹)
+      - 로그스케일링 등 인코딩 방법 선정 (캐글 트래킹)
       - 새로운 특성의 생성 유무
 
-    - train_prompt : (✔내용 추가 예정)
+    - train_prompt : 해당 text의 주제.
+           - 0 : Car-free cities
+           - 1 : Does the electoral college work?
 
     - 전처리 진행
       
